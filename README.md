@@ -8,8 +8,9 @@ This app consumes The YouTube Data API V3 to fetch and display a list of popular
 
 
 ## Screenshots
-### Splash/ Home/ Video player Screens
+### Splash | Login | Home | Video player Screens
 <img src="/images/splash screen.jpeg" width="260">&emsp;
+<img src="/images/authScreen.jpeg" width="260">&emsp;
 <img src="/images/home.jpeg" width="260">
 <img src="/images/video player.jpeg" height="260">
 
